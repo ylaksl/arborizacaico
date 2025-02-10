@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	html, body {
-		background: #1c1d26;
+		background: #7bd190;
 	}
 
 	body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2523,7 +2523,7 @@ input, select, textarea {
 			position: absolute;
 			left: 0;
 			top: 0;
-			background-image: url("images/overlay.png");
+			background-image: url("images/serra.jpeg");
 			width: 100%;
 			height: 100%;
 			z-index: 1;
